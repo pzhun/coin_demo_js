@@ -21,9 +21,7 @@ class Defi {
   }
 
   async approve(amount, userAddress) {
-    const value = ethers.BigNumber.from(
-      (amount * Math.pow(10, this.unit)).toString()
-    );
+    const value = this.parseUnits(amount);
     const methodParams = [this.contractAddress, value];
     const erc20 = new ethers.Contract(
       this.tokenAddress,
@@ -44,21 +42,12 @@ class Defi {
   }
 
   async deposit(amount, userAddress) {
-    const value = ethers.BigNumber.from(
-      (amount * Math.pow(10, this.unit)).toString()
-    );
-    console.log(value);
-    const data = {
-      tokenAddress: this.tokenAddress,
-      contractAddress: this.contractAddress,
-      amount: value,
+    const value = this.parseUnits(amount);
+    const methodParams = this.loadMethodParams(
+      value,
       userAddress,
-    };
-    const methodParams = [];
-    for (const param of this.depositConfig.methodParams) {
-      methodParams.push(data[param]);
-    }
-    console.log(methodParams);
+      this.depositConfig.methodParams
+    );
     const transaction = await this.defiContract.contractInteractive(
       this.depositConfig.functionName,
       methodParams
@@ -73,7 +62,44 @@ class Defi {
     return transaction;
   }
 
-  async withdraw() {}
+  async withdraw(amount, userAddress) {
+    const value = this.parseUnits(amount);
+    const methodParams = this.loadMethodParams(
+      value,
+      userAddress,
+      this.withdrawConfig.methodParams
+    );
+    const transaction = await this.defiContract.contractInteractive(
+      this.withdrawConfig.functionName,
+      methodParams
+    );
+    transaction.to = this.contractAddress;
+    transaction.from = userAddress;
+    transaction.gasLimit = await EthContract.estimateGas(
+      transaction,
+      this.provider
+    ); // 输入 Gas 限制
+    transaction.chainId = this.chainId;
+    return transaction;
+  }
+
+  parseUnits(amount) {
+    return ethers.BigNumber.from((amount * Math.pow(10, this.unit)).toString());
+  }
+
+  loadMethodParams(value, userAddress, params) {
+    const data = {
+      tokenAddress: this.tokenAddress,
+      contractAddress: this.contractAddress,
+      amount: value,
+      userAddress,
+    };
+    const methodParams = [];
+    for (const param of params) {
+      methodParams.push(data[param]);
+    }
+    return methodParams;
+  }
 }
 
 module.exports = Defi;
