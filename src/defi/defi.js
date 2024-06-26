@@ -9,7 +9,9 @@ class Defi {
     this.erc20ABI = options.erc20ABI;
     this.tokenAddress = options.tokenAddress;
     this.contractAddress = options.contractAddress;
-    this.provider = new ethers.providers.JsonRpcProvider(options.url);
+    this.provider = new ethers.providers.JsonRpcProvider(
+      options.rpcProvider ?? options.url
+    );
     this.chainId = options.chainId;
     // 合约对象
     this.defiContract = new EthContract({
@@ -32,13 +34,7 @@ class Defi {
       ...methodParams
     );
     transaction.to = this.tokenAddress;
-    transaction.from = userAddress;
-    transaction.gasLimit = await EthContract.estimateGas(
-      transaction,
-      this.provider
-    ); // 输入 Gas 限制
-    transaction.chainId = this.chainId;
-    return transaction;
+    return this.fulfillTransaction(userAddress, transaction);
   }
 
   async deposit(amount, userAddress) {
@@ -52,14 +48,7 @@ class Defi {
       this.depositConfig.functionName,
       methodParams
     );
-    transaction.to = this.contractAddress;
-    transaction.from = userAddress;
-    transaction.gasLimit = await EthContract.estimateGas(
-      transaction,
-      this.provider
-    ); // 输入 Gas 限制
-    transaction.chainId = this.chainId;
-    return transaction;
+    return this.fulfillTransaction(userAddress, transaction);
   }
 
   async withdraw(amount, userAddress) {
@@ -73,7 +62,14 @@ class Defi {
       this.withdrawConfig.functionName,
       methodParams
     );
-    transaction.to = this.contractAddress;
+    return this.fulfillTransaction(userAddress, transaction);
+  }
+
+  parseUnits(amount) {
+    return ethers.BigNumber.from((amount * Math.pow(10, this.unit)).toString());
+  }
+
+  async fulfillTransaction(userAddress, transaction) {
     transaction.from = userAddress;
     transaction.gasLimit = await EthContract.estimateGas(
       transaction,
@@ -81,10 +77,6 @@ class Defi {
     ); // 输入 Gas 限制
     transaction.chainId = this.chainId;
     return transaction;
-  }
-
-  parseUnits(amount) {
-    return ethers.BigNumber.from((amount * Math.pow(10, this.unit)).toString());
   }
 
   loadMethodParams(value, userAddress, params) {
