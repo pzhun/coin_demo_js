@@ -1,5 +1,6 @@
 // FILEPATH:
 const Excel = require("exceljs");
+const fs = require("fs");
 
 async function main() {
   // 从文件读取
@@ -36,9 +37,22 @@ async function main() {
         language,
       });
     }
-    console.log(contents);
-    break;
+    // break;
   }
+
+  const result = contents.filter((item) => item.lang_id && item.key);
+  const chinese = result.filter((item) => item.language === "zh_CN");
+  // const english = contents.filter((item) => item.language === "en_US");
+
+  const jsonString = JSON.stringify(chinese);
+
+  fs.writeFile("./chinese.json", jsonString, "utf8", (err) => {
+    if (err) {
+      console.error("Error writing file:", err);
+    } else {
+      console.log("File is successfully saved!");
+    }
+  });
 }
 
 main();
