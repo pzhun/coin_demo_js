@@ -1,0 +1,9613 @@
+[
+  {
+    "key": "Add now",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "现在添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Add Wallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "添加钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "All chain",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "所有资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Back",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "返回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chain",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Connected DApps",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "已连接的DApp",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Connection disconnect",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "与@name的连接正常关闭，请重新扫码连接。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Contract Address",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "合约地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Create Wallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "创建钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Create wallet with mnemonic",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "使用随机生成的12位助记词创建新钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Customize the Token",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "自定义代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "decimal",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "精度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Disconnect All",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "断开全部",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Disconnect all confirm",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "是否确认断开钱包与所有DApp的连接？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Failed to add",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "添加失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Full Name",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "全称",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Import Wallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "导入钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Import wallet with mnemonic",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "输入助记词或私钥以导入钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "messageAddTokenHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "是否添加@token到钱包?",
+    "language": "zh_CN"
+  },
+  {
+    "key": "myAssets",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "资产总额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No internet connection, please enable it in the system settings",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "无网络连接，请在系统设置内打开权限",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No search results",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "无搜索结果",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notYet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "暂不添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanAddress",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "扫描二维码获取转账地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanURL",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "扫描网址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanWc",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "建立 WalletConnect 连接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanWcAndAddress",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "发起转账或建立 WalletConnect 连接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "watch_wallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "观察钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "watch_wallet_message",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "输入以太地址或ENS生成观察钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notice",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "注意",
+    "language": "zh_CN"
+  },
+  {
+    "key": "jumpWebHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "扫描的内容为网址，您是否要访问外部网站？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "jumpWcHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "您是否要建立WalletConnect连接？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "jumpTransferHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "扫描的内容为地址，您是否要跳转到转账页？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "symbol",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "符号",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokenExists",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "代币已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanQRCode",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "扫描二维码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notSupportContract",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "暂不支持所添加的合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcConnectWallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "WalletConnect正在连接你的钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "WalletConnect init",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "WalletConnect服务初始化中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "disconnect",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "断开连接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reconnect",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "重新连接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "connected",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "已连接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "disconnected",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "连接断开",
+    "language": "zh_CN"
+  },
+  {
+    "key": "connectionStatus",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "连接状态",
+    "language": "zh_CN"
+  },
+  {
+    "key": "authorizedWallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "授权钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "connectionAddress",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "连接地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "requiredChains",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "必选链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "optionalChains",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "可选链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "connectedChains",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "连接链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcError1",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "FxWallet暂时不支持该链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcError2",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "未添加该链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletNotSupportChain",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "FxWallet暂时不支持链id为 @chainIds 的链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "WalletNotAddRequiredChain",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "钱包暂未添加当前DApp的必选链 [@chains]，请添加后重试。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "evm_required",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "当前钱包没有添加任何该DApp需要的EVM链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sorry",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "抱歉",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcAuthPermissions",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "授权后该应用将获得以下权限",
+    "language": "zh_CN"
+  },
+  {
+    "key": "checkOnChainInfo",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "查询您的链上信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "RequestTxAuth",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "向您请求交易授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "提示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmAuth",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcNote",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "以上操作不会共享私钥信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "updating",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "更新中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "updateNote",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "@seconds 秒后更新",
+    "language": "zh_CN"
+  },
+  {
+    "key": "share",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "分享",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mainChain",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "主链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "topAssets",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "热门资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputDappUrl",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "输入Dapp地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nft",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT transaction",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "NFT交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nfts",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "NFTs",
+    "language": "zh_CN"
+  },
+  {
+    "key": "failed",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bandwidth",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "带宽",
+    "language": "zh_CN"
+  },
+  {
+    "key": "energy",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "能量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noSupport",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "币种不支持",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notAdd",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "钱包暂未添加当前币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "webOnly",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "此处仅支持扫描网址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokenNoSupport",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "代币不支持",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setAmount",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "设置收款数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanAddressError",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "地址和当前链不匹配",
+    "language": "zh_CN"
+  },
+  {
+    "key": "actualAmount",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "到账金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "refresh",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "刷新",
+    "language": "zh_CN"
+  },
+  {
+    "key": "clearCache",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "清除缓存",
+    "language": "zh_CN"
+  },
+  {
+    "key": "clear",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "清空",
+    "language": "zh_CN"
+  },
+  {
+    "key": "clearHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "您确定要清空搜索框和搜索结果吗？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setPasswordHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "安全密码用于解锁钱包、批准交易以及查看助记词。 请牢牢记住安全密码，切勿将安全密码告诉任何人。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFTSearchHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "搜索合集内藏品或ID",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addToken",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "手动添加代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "searchToken",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "搜索代币名称或者合约地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ethSignHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "此操作可能用来从您的账户提取资产, 请确保信任此站点!",
+    "language": "zh_CN"
+  },
+  {
+    "key": "message",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "消息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hnsHandle",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "HNS域名操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reserved",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "保留域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "watchOnly",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "只读",
+    "language": "zh_CN"
+  },
+  {
+    "key": "memo",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "备注",
+    "language": "zh_CN"
+  },
+  {
+    "key": "content",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "内容",
+    "language": "zh_CN"
+  },
+  {
+    "key": "batchTransfer",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "批量转账",
+    "language": "zh_CN"
+  },
+  {
+    "key": "add",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "viewMore",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "查看更多",
+    "language": "zh_CN"
+  },
+  {
+    "key": "more",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "更多",
+    "language": "zh_CN"
+  },
+  {
+    "key": "show less",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "收起更多",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Receive",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "接收",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Delegate",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "undelegate",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Get Reward",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Auto Claim Reward",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "自动领取奖励",
+    "language": "zh_CN"
+  },
+  {
+    "key": "retry",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "twitter",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "X",
+    "language": "zh_CN"
+  },
+  {
+    "key": "assetsDiscovery",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "资产发现",
+    "language": "zh_CN"
+  },
+  {
+    "key": "autoDiscoverAssets",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "自动发现资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "autoDiscoverTip",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "开启后，FxWallet会自动为您发现余额非零的资产，并在主页提示您添加它们。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "pending",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "进行中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "error",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "异常",
+    "language": "zh_CN"
+  },
+  {
+    "key": "systemNotification",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "系统通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "showMore",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "查看更多",
+    "language": "zh_CN"
+  },
+  {
+    "key": "orderSource",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "订单来源",
+    "language": "zh_CN"
+  },
+  {
+    "key": "queuing",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "排队中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "failedRetrieval",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "检索失败,请重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "quick add",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "快速添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "customize",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "自定义",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chain is exist",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "链已经存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Invalid RPC",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "没有可用的rpc链接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "RPC exist",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "RPC已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "explorer",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "浏览器",
+    "language": "zh_CN"
+  },
+  {
+    "key": "explore",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "浏览器",
+    "language": "zh_CN"
+  },
+  {
+    "key": "AutoFillCustomChain",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "找到链ID为 @chainId 的信息, 是否自动填充?",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deleteCustomChainConfirmation",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "是否确认删除此自定义链？同时将会删除此链相关的数据。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmDeletion",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "删除确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ethStakingEarn",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "质押ETH，获取每日收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "taprootScanHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "Taproot暂不支持扫码。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "legacyScanHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "当前是Taproot钱包，请至币种详情页切换地址后重试。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Welcome to",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "欢迎来到",
+    "language": "zh_CN"
+  },
+  {
+    "key": "useFaceId",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "是否使用生物识别",
+    "language": "zh_CN"
+  },
+  {
+    "key": "yes",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "是",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "否",
+    "language": "zh_CN"
+  },
+  {
+    "key": "createPasscode",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "创建密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmPasscode",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "确认密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "createPasswordHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "设置一个6位数字密码用于解锁您的钱包，请注意该密码无法用于恢复钱包。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmPasswordHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "重新输入相同的6位数字用于确认密码。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "customPasswordHint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "设置一个自定义字母数字密码，请注意该密码无法用于恢复钱包。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "passcodeOptions",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "密码选项",
+    "language": "zh_CN"
+  },
+  {
+    "key": "6-digitPassword",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "六位数字密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "customPassword",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "自定义密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockMode",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "解锁模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "biometrics",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "生物识别",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Init wallet",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "初始化钱包...",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Completed",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "完成",
+    "language": "zh_CN"
+  },
+  {
+    "key": "enterPasscode",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "输入密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "biometricsOpenApp",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "使用生物识别打开应用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "verify_your_new_passcode",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "确认您的新密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "add_chains",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "添加链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "add_chains_wc_hint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "钱包暂未添加当前DApp的必选链 [@chains]，是否添加后继续？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "btc_pending_tx_hint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "你有一笔交易待处理，暂时无法发起新交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "current_price",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "当前价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "1D",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "1天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "1W",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "1周",
+    "language": "zh_CN"
+  },
+  {
+    "key": "1M",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "1月",
+    "language": "zh_CN"
+  },
+  {
+    "key": "3M",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "3月",
+    "language": "zh_CN"
+  },
+  {
+    "key": "1Y",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "1年",
+    "language": "zh_CN"
+  },
+  {
+    "key": "price_all",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "全部",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_day",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "过去一日",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_week",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "过去一周",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_month",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "过去一个月",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_three_month",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "过去三个月",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_year",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "过去一年",
+    "language": "zh_CN"
+  },
+  {
+    "key": "new_version_title",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "新版本：@version",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Redeem",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Authorization Amount",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "授权额度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Authorize",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Added",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "已添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokenFee",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "代币费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Token fee rate",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "代币费率",
+    "language": "zh_CN"
+  },
+  {
+    "key": "faq",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "常见问题",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Token Amount",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "代币金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "low_risk",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "低风险",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lower_risk",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "较低风险",
+    "language": "zh_CN"
+  },
+  {
+    "key": "medium_risk",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "中风险",
+    "language": "zh_CN"
+  },
+  {
+    "key": "higher_risk",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "较高风险",
+    "language": "zh_CN"
+  },
+  {
+    "key": "coin_price",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "币价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_cap",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "市值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The current token authorization amount is 0.",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "当前token授权金额为0，需要再次授权才能进行交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transaction information",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "交易信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transaction details",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "交易详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Due to Polkadot's on-chain mechanism, your assets will be reset to zero when the account balance is below 1",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "由于Polkadot的链上机制，账户余额小于1时资产会被清零",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Due to Polkadot's on-chain mechanism, if the recipient's balance is less than 1 after a transfer, the recipient's balance will be reset to zero.",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "由于Polkadot的链上机制，如果转账后收款地址余额小于1，收款地址余额将会被清零",
+    "language": "zh_CN"
+  },
+  {
+    "key": "info",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "All networks",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "全部网络",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Details",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "MINUTE_15",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "15分",
+    "language": "zh_CN"
+  },
+  {
+    "key": "HOUR_1",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "1小时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "HOUR_4",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "4小时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "DAY_1",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "1天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "VALUE",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "价值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "User",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "用户",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No Open Tabs",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "暂无标签页",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No Open Tabs Description",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "要想浏览网页, 请添加新的标签页",
+    "language": "zh_CN"
+  },
+  {
+    "key": "overview",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "概览",
+    "language": "zh_CN"
+  },
+  {
+    "key": "webpage not available",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "无法访问网址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "webpage_not_available_hint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "请检查所在地域网络是否支持访问该网址，以及链接是否正确。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "token not registered",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "该币种尚未激活",
+    "language": "zh_CN"
+  },
+  {
+    "key": "token_not_registered_hint",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "你需先激活该币种后再使用。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "register token",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "注册代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Claim",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "领取",
+    "language": "zh_CN"
+  },
+  {
+    "key": "claim",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "领取收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transfers of Token Standard v1 NFTs are not currently supported.",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "暂不支持 Token Standard v1 NFT 的转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No main chain tokens have been added.",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "未添加主链的代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Scan",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "扫描",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Select Coin",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "选择币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Need password for",
+    "type": "common",
+    "lang_id": "zh_CN",
+    "value": "请输入密码以生成 @type 数据",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Clear cache successfully",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "缓存清理成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Wallet not support",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "当前钱包不支持连接DApp，请切换钱包后再试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dAppSearchHint",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "搜索DApp或输入网址访问",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toDApp",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "即将跳转到DApp",
+    "language": "zh_CN"
+  },
+  {
+    "key": "supportChain",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "支持主网",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tapSwitch",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "点击切换",
+    "language": "zh_CN"
+  },
+  {
+    "key": "riskWarning",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "风险提示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dappRisk1",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "DApp页面完全由该项目方控制，FxWallet仅作为浏览器展示网站内容；请在使用时小心谨慎，转账请务必核对收款地址或合约地址。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dappRisk2",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "一旦您使用DApp后导致资产丢失，FxWallet不承担任何责任，也不具备赔偿义务。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dappRisk3",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "FxWallet不推荐任何DApp，仅根据客观信息进行收录和整理，以帮助您判断使用该DApp。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcTimeout",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "连接超时，请重新尝试。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dmPurchaseTip",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "购买成功，待上链后请至我的域名页面查看",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wcNotAddChain",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "钱包当前未添加该链，请至首页添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "warning",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "警告",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noDAppCollected",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "暂无DApp收藏，请浏览或搜索后添加您的常用DApp",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noDAppList",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "无DApp，请浏览其他列表或搜索您想要的DApp",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addCustomDApp",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "新增自定义DApp",
+    "language": "zh_CN"
+  },
+  {
+    "key": "modifyCustomDApp",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "编辑自定义DApp",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dappName",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "名称",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dappUrl",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "URL",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dappAlreadyExists",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "DApp已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "urlInvalid",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "请输入合法URL",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chainMustNotEmpty",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "至少选择一个主链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "High risk",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "高风险网站提示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "High risk msg",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "该链接被标记为有风险。请您确保当前链接安全，并谨慎操作。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Continue anyway",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "仍要进入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Go back",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "暂不进入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Redirect notice",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "跳转提醒",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Redirect msg",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "即将访问第三方网站，请确保该链接安全可靠，避免造成资产损失",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Do not show again for website",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "下次打开该网站无需提示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No favorites yet",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "暂无收藏",
+    "language": "zh_CN"
+  },
+  {
+    "key": "discover",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "发现",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dapp_explore",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "探索",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Close all",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "全部关闭",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Done",
+    "type": "dapp",
+    "lang_id": "zh_CN",
+    "value": "完成",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Biometrics locked out",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "生物验证被锁定，请稍后再试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidParams",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效参数",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidQuantity",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "数量过多（最多搜索20个）",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidCoin",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidWallet",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidHash",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效交易哈希",
+    "language": "zh_CN"
+  },
+  {
+    "key": "insufficientBalance",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足",
+    "language": "zh_CN"
+  },
+  {
+    "key": "insufficientFunds",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notEnoughForFeeFromBalance",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足支付手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notEnoughForFeeFromAmount",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "输入金额不足以支付手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "exceedDelegation",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "超出质押余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allInsufficient",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足（您有冻结和确认中的金额）",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unconfirmedInsufficient",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足（您有确认中的金额）",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockedInsufficient",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足（您有冻结金额）",
+    "language": "zh_CN"
+  },
+  {
+    "key": "minActualDelegate",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "实际质押需大于等于@amount @param",
+    "language": "zh_CN"
+  },
+  {
+    "key": "verifyFailed",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "验证失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidAuctionType",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效拍卖类型",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidDomain",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notToHigh",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "域名不可操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidAuction",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效拍卖记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "timeout",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "超时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidBlind",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效盲注金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "txAvailable",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "交易不可用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "failure",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "exceeds",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "数据过大",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notTheOwner",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "交易与钱包不匹配",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unregistered",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "域名未注册",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidOperation",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "exists",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "交易已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reservedName",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "保留域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "waitingOnChain",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "等待域名交易上链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transferLocked",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "转移交易锁定中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transferFinalize",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "转移域名的交易等待确认或取消",
+    "language": "zh_CN"
+  },
+  {
+    "key": "valueDust",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "金额过低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addressError",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "地址错误",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noStakeAccount",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "这笔质押已经取消或取回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokenIdNum",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "TokenID应当是数字",
+    "language": "zh_CN"
+  },
+  {
+    "key": "insufficientTime",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "转移操作未满21天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lowOnGas",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "Gas过低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasLow",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "gas 数量太低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasFeeLower",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "Gas费比上次交易低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unsupportedToken",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "不支持当前token",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidContractAddress",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "合约地址格式不正确",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unverifiedContractAddress",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "合约地址源码未验证",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidToken",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "缺少Pubkey",
+    "language": "zh_CN"
+  },
+  {
+    "key": "serverError",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "服务端未知错误",
+    "language": "zh_CN"
+  },
+  {
+    "key": "requestFailed",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "网络开小差了，请稍后再试试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receiveTimeout",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "请求接收超时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "connectionTimeout",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "连接超时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sendTimeout",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "请求发送超时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "broadcastFailed",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "交易广播失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "batchInvalidAddress",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "batchInvalidAmount",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "batchInvalidFormat",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "无效格式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "domain_name",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "xrp_less",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足保证金",
+    "language": "zh_CN"
+  },
+  {
+    "key": "xrp_less_than_fee",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "余额不足保证金 + 手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "xrp_retained",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "转账后收款账户余额不足10 XRP",
+    "language": "zh_CN"
+  },
+  {
+    "key": "xrp_less_authorized",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "收款账户Token授权额度不足",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Invalid Issuer",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "发行者不存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "An XRP payment transaction cannot have the same sender and destination",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "XRP交易的发送方和接收方地址不能相同",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Can not transfer to self address",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "交易的发送方和接收方地址不能相同",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ckb_min_amount",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "CKB的最小转账数量为61",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transaction unsuccessful due to a node issue",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "节点异常，交易发送失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "An NEAR payment transaction cannot have the same sender and destination",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "NEAR token/NFT交易的发送方和接收方地址不能相同",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transaction failed. Please retry.",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "交易失败，请重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The receiving address has not registered @token and cannot be sent",
+    "type": "error",
+    "lang_id": "zh_CN",
+    "value": "该接收地址尚未激活 @token，无法向其发送该币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "timeLeft",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "剩余时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "finalPrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "成交价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "times",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "amounts",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "次数",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidSoon",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "即将开始",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidding",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞价中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "revealing",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "揭示中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ranking",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出售排行",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sold",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "已售出",
+    "language": "zh_CN"
+  },
+  {
+    "key": "myFavorite",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "我的收藏",
+    "language": "zh_CN"
+  },
+  {
+    "key": "favorites",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "收藏夹",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ownDomain",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "我的域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "numberOfBids",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价次数",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidPrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "opening",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "即将开始",
+    "language": "zh_CN"
+  },
+  {
+    "key": "closed",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍结束",
+    "language": "zh_CN"
+  },
+  {
+    "key": "history",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "操作历史记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "marketHistory",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "市场交易记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inProgress",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "进行中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidSuccess",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidFail",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "很遗憾您未拍中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "domainRegistration",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名注册",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputType",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "请输入类型（可选）",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputPassword",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "请输入密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "register",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "注册",
+    "language": "zh_CN"
+  },
+  {
+    "key": "operateSuccessfully",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "操作成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "renewal",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "马上续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "domain",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allReveal",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "全部揭示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allRedeem",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "全部赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "waitingToReveal",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "待揭示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "domainTransfer",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transferDomain",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "finish",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "完成",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transferHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名转移中,请稍后查看结果",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nameTransferTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "预计转移时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "days",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "highestLockup",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "最高出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "redeemable",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "可赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setPrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "标价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setPriceBtn",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "标价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setPriceAmount",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "标价金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidAmount",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "operationStep",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "操作步骤",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmPrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名市场：标价确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmBid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名市场：出价确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "blind",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "盲注",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fee",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "youBid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "你的出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "blindBid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "盲注出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "balance",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidNow",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "立即出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidSuccessfulTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidAgain",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "再次出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidNot",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价不能为0",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价不得低于0.01HNS",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidLimit",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价不得高于100,000,000HNS",
+    "language": "zh_CN"
+  },
+  {
+    "key": "optional",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "可选",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auctionRecord",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auctionHistory",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "历史竞拍记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "number",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "序号",
+    "language": "zh_CN"
+  },
+  {
+    "key": "amount",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "status",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "状态",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Block Height",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "区块高度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Date",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "日期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auctionInfo",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "releaseTime",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "发布",
+    "language": "zh_CN"
+  },
+  {
+    "key": "startTime",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍开始",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidDeadline",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出价截至",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auctionEndTime",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "拍卖结束",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dealTime",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "成交时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "rules",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍规则",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidRule1",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "Handshake每周会发布一批新的域名，首次出价后，拍卖将开放5天。任何人都可以参与并且多次出价。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidRule2",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍截止后，将有十天揭示期揭示出价者的实际出价。拍中域名的赢家将支付第二高的出价金额，获得该域名的所有权。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidRule3",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "如果您不是最高的出价者，请您对域名进行赎回，域名可在待赎回中查看。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "currentBlockHeight",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "当前区块高度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "endBlockHeight",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "续费结束区块",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expires",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "过期时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "domainRenewal",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "renewing",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "续费中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "市场",
+    "language": "zh_CN"
+  },
+  {
+    "key": "myTransactions",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "我的交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "personal",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "个人",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auctionResult",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "竞拍结果",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nameCopyTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名复制成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "revealTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "揭示进行中，当前数据随时可能更新",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidFailed",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "很遗憾您未拍中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "domainDetail",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "activateTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名未激活，暂时不能进行转移、续费等操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notAvailableTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "交易进行中，请稍候",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expireTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名已经过期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expireSoonTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名即将过期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "needRevealTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "您有待揭示/待赎回的域名，请到我的交易查看",
+    "language": "zh_CN"
+  },
+  {
+    "key": "waitForTransferConfirm",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "您的域名正在转移/锁定中，请在@param后进行确认/取消操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toConfirmTransfer",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "您的域名正在转移/锁定中，请进行确认/取消操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expectToStart",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "预计开始倒计时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expectToFinish",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "预计结束倒计时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auctionOver",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "拍卖已结束",
+    "language": "zh_CN"
+  },
+  {
+    "key": "process",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "拍卖进度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "settle",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "结算期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "finalBidPrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "拍中价格：",
+    "language": "zh_CN"
+  },
+  {
+    "key": "namePrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tutorial",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "教程",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reveal",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "揭示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "open",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "解锁",
+    "language": "zh_CN"
+  },
+  {
+    "key": "renewalHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名即将到期，请及时续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "activate",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "激活",
+    "language": "zh_CN"
+  },
+  {
+    "key": "collect",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "收藏",
+    "language": "zh_CN"
+  },
+  {
+    "key": "remainingBlocks",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "剩余区块",
+    "language": "zh_CN"
+  },
+  {
+    "key": "endOfDistance",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "距离结束",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inactive",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "未解锁",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlocking",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "解锁中, 请稍候",
+    "language": "zh_CN"
+  },
+  {
+    "key": "collectionSuccess",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "收藏成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unfavorite",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "取消收藏",
+    "language": "zh_CN"
+  },
+  {
+    "key": "endHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "距离时间是预估的最佳时间，期间有可能因为区块延迟造成推迟，具体请以最终时间为准。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "最后",
+    "language": "zh_CN"
+  },
+  {
+    "key": "settleHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "分钟为结算期，在此期间域名将不能进行任何操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "searchRecord",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "搜索记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "openURL",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "是否打开网址？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "searchResult",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "搜索结果",
+    "language": "zh_CN"
+  },
+  {
+    "key": "search",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "搜索",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputDomain",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "请输入你觉得有价值的顶级域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delRecord",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "删除搜索记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delRecordTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "是否删除所有搜索记录？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selectedAddress",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "选择地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addFollowTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "添加有效的ETH地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "followAddresses",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "已关注地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidAddress",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "地址无效",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delAddressTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "地址正在使用中，不能删除",
+    "language": "zh_CN"
+  },
+  {
+    "key": "detail",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fromTo",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "发送方/接收方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "messagePush",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名过期通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notActivated",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "未激活",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expiresSoon",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "即将过期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selectAll",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "全选",
+    "language": "zh_CN"
+  },
+  {
+    "key": "batch",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "批量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bulkSearch",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "批量搜索",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bulkTransfer",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "批量转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bulkSearchTip",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "输入多个域名（至多20个），用空格分隔。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "openAll",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "批量激活",
+    "language": "zh_CN"
+  },
+  {
+    "key": "openAllHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "该操作将会激活此列表中所有可以激活的域名。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noMoreNames",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "暂未选中域名或没有可以激活的域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cantCheck",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "该域名现在不能确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cantSelect",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "列表中没有可激活的域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "myMarketOrders",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "我的市场",
+    "language": "zh_CN"
+  },
+  {
+    "key": "onSale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出售中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buying",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "正在购买",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buySucceed",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "购买成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buyFailed",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "购买失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selling",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "正在出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "forSale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "待出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notForSale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "不可出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "myBid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "我的出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toBeConfirmed",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "待确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "messageSignature",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "消息签名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "etc",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": " (等多个域名)",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lock",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "锁定",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlock",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "解锁",
+    "language": "zh_CN"
+  },
+  {
+    "key": "salePrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "售价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "purchase",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "立即购买",
+    "language": "zh_CN"
+  },
+  {
+    "key": "changePrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "重新出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "operation",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buy",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "购买",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auction",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "拍卖",
+    "language": "zh_CN"
+  },
+  {
+    "key": "marketplace",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "市场交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "finalize",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hnsTradeHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "您的交易中包含购买域名的金额，如果继续操作出价将无效。\n数量: ",
+    "language": "zh_CN"
+  },
+  {
+    "key": "modify",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "修改",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deleteBid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "确定要删除您的出价，是否继续？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deleteBidShort",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "删除出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Buy now price",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "标价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "price",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sell",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "成交",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sellTitle",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "成交操作提示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sellOpHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "在本次操作中将会扣除由FxWallet收取的0.5%的服务费+交易上链手续费。交易完成后您将得到扣除后的金额。\n请确认是否接受此出价。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "complete",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "完成",
+    "language": "zh_CN"
+  },
+  {
+    "key": "changeBid",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "修改出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "changeSell",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "修改标价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "changeSellBtn",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "修改标价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "oldPrice",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "当前价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "saleHistory",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "历史记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "iWantToSell",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "我想卖",
+    "language": "zh_CN"
+  },
+  {
+    "key": "marketHelp",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "市场帮助文档",
+    "language": "zh_CN"
+  },
+  {
+    "key": "decentralization",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "去中心化",
+    "language": "zh_CN"
+  },
+  {
+    "key": "decenterDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "市场使用 HIP-001 和 HIP-006 的协议规范，实现去中心化的域名交易，交易上链，保证域名安全性。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "saleName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出售域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "1. 出售准备 - 锁定域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockNameDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出售前需要将域名转移到属于您的脚本地址，并等待约两天，再发送交易进行确认或取消。确认的域名可以进行下一步，取消则会回到原来的状态。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "2. 出售中 - 出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "bidNameDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "确认锁定后，您可以对域名进行标价，标价在出售过程中可以随时修改。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "counterName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "3. 出售中 - 他人还价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "counterNameDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "域名出售过程中，他人可以给出自己期望的价格，出价列表会展示在域名详情内。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fillSale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "4. 完成 - 出售完成",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fillPurchase",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "出售期间，买方可以直接按标价购买，交易上链后完成出售。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fillCounter",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "在等待他人购买的同时，他人也可能对域名进行还价；还价会列在域名详情内，您也可以接受他人的出价，直接成交。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fillHint1",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "注：接受他人出价后，实际得到的HNS会略小于出价，因为需要从中扣除掉两部分费用：由FxWallet收取的0.5%的服务费+交易上链的手续费。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelSale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "5. 完成 - 取消出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelSaleDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "期间也可以取消出售，先解锁域名，等待约两天后，可以确认解锁。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelSaleHint1",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "注：解锁域名只能确认，无法取消，如果改变想法，需要先确认解锁，再重新进行锁定。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlockTitle",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "解锁操作提示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlockOpHint",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "当前您已成功锁定域名，您可以继续进行出价。\n解锁即为取消本次出售。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buyName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "购买域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "showOnSale",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "1. 可以购买的域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "showOnSaleDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "市场内会列出所有当前出售中的域名，域名详情内会列出具体的出售情况。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toCounterName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "2. 还价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toCounterNameDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "如果对标价不满意，您也可以进行还价，输入自己期望的价格，等待卖方确认；出价可以随时修改。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toCounterNameHint1",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "注：由于交易完全是去中心化的，每次出价会需要您有一个价格刚好的交易块，所以如果当前没有满足条件的块，会先向自己发送一笔交易整合出合适的块，这个过程会上链，且消耗手续费。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "toCounterNameHint2",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "注：出价并不会上链，所以实际上这个交易块还可以被花费。我们尽量保证您先花费未出价的交易块，如果不得不使用，将会在您支付之前进行提示。如果您看到提示后还是选择花费，之前的出价将无效。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buyNowName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "3. 直接购买",
+    "language": "zh_CN"
+  },
+  {
+    "key": "buyNowNameDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "您也可以选择直接购买，您将付出卖方的标价并加上交易的手续费的HNS，成功购买到域名。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmName",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "4. 购买确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmNameDescription",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "购买成功后，需要等待约两天，然后进行购买确认，确认后，域名将正式属于您。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Release time",
+    "type": "hns",
+    "lang_id": "zh_CN",
+    "value": "发布时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Back up now",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "立即备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Copy Anyway",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "仍要复制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "EVM Network",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "EVM 网络",
+    "language": "zh_CN"
+  },
+  {
+    "key": "EVM support chain",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "当前支持以下EVM网络",
+    "language": "zh_CN"
+  },
+  {
+    "key": "EVM support manage",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "您的地址属于EVM网络，该地址可兼容管理其他EVM网络上的资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Hot Chains",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "热门网络",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Need back backup",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "为了保障你的资产安全，请先备份钱包后再使用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No private key",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "暂时不支持查看该主链的私钥",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Not Copy Yet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "暂不复制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Private key",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "私钥",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Private key security",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "为保证你的资产安全，请切勿将私钥或该截图透露给任何三方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Private key remove forbidden",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "私钥模式不能删除主链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Select Chain",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "选择主链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Single wallet not support chain",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "当前私钥钱包不支持链@chain",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Single wallet not support wc",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "当前私钥钱包不支持WalletConnect",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Single wallet not support DApp",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "当前私钥钱包不支持DApp连接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Solana Sign Message",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "Solana签名信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Solana Sign Transaction",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "Solana签名交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "View Private Key",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "查看私钥",
+    "language": "zh_CN"
+  },
+  {
+    "key": "WalletConnect init failed",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "WalletConnect连接初始化失败，请检查网络并重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Private key not support NFT",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "私钥钱包暂时无法使用当前功能",
+    "language": "zh_CN"
+  },
+  {
+    "key": "me",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "我的",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addressBook",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "地址簿",
+    "language": "zh_CN"
+  },
+  {
+    "key": "aboutUs",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "关于我们",
+    "language": "zh_CN"
+  },
+  {
+    "key": "website",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "官网",
+    "language": "zh_CN"
+  },
+  {
+    "key": "feedback",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "意见反馈",
+    "language": "zh_CN"
+  },
+  {
+    "key": "helpCenter",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "帮助中心",
+    "language": "zh_CN"
+  },
+  {
+    "key": "zh_CN",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "简体中文",
+    "language": "zh_CN"
+  },
+  {
+    "key": "en_US",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "English (US)",
+    "language": "zh_CN"
+  },
+  {
+    "key": "en_IN",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "English (India)",
+    "language": "zh_CN"
+  },
+  {
+    "key": "id_ID",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "Bahasa Indonesia",
+    "language": "zh_CN"
+  },
+  {
+    "key": "language",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "语言",
+    "language": "zh_CN"
+  },
+  {
+    "key": "theme",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "主题",
+    "language": "zh_CN"
+  },
+  {
+    "key": "themeSettings",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "主题设置",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lightMode",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "浅色模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "darkMode",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "深色模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "followSystem",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "跟随系统",
+    "language": "zh_CN"
+  },
+  {
+    "key": "followSystemTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "开启后，将跟随系统打开或关闭深色模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selectManually",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "手动切换",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletList",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "钱包列表",
+    "language": "zh_CN"
+  },
+  {
+    "key": "importWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "导入钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "createWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "创建钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notBackup",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "未备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonicTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "请输入英文助记词或私钥以导入钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nextStep",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "下一步",
+    "language": "zh_CN"
+  },
+  {
+    "key": "incorrectMnemonic",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "助记词不正确",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletManage",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "multiCurrency",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "多币种钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonicBackup",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "助记词备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deleteWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "删除钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "changeWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "修改钱包名称",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletName",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "钱包名称",
+    "language": "zh_CN"
+  },
+  {
+    "key": "close",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "关闭",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancel",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "取消",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirm",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "continue",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "继续",
+    "language": "zh_CN"
+  },
+  {
+    "key": "utxoTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "由于要创造一笔完整的UTXO交易，此操作将有可能扣除您少量资金",
+    "language": "zh_CN"
+  },
+  {
+    "key": "useWalletNotDelete",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "使用中的钱包无法删除",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noFullWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "不能移除所有非只读钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "不可删除",
+    "language": "zh_CN"
+  },
+  {
+    "key": "atLeastOne",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "至少保留一项资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addressCopy",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "地址已复制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delete",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "删除",
+    "language": "zh_CN"
+  },
+  {
+    "key": "edit",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "编辑",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deleteItem",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "删除显示",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addAddress",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "添加地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "editAddress",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "编辑地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "save",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "保存",
+    "language": "zh_CN"
+  },
+  {
+    "key": "address",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputAddress",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "输入地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "pasteTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "长按或双击粘贴",
+    "language": "zh_CN"
+  },
+  {
+    "key": "remarks",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "备注",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputRemark",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "请输入备注",
+    "language": "zh_CN"
+  },
+  {
+    "key": "remarksExist",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "备注已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "coinType",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "币种类型",
+    "language": "zh_CN"
+  },
+  {
+    "key": "version",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "版本号",
+    "language": "zh_CN"
+  },
+  {
+    "key": "checkVersion",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "检查版本",
+    "language": "zh_CN"
+  },
+  {
+    "key": "newVersionFound",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "找到新版本",
+    "language": "zh_CN"
+  },
+  {
+    "key": "feedbackTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "如果您有好的建议或反馈，欢迎联系我们！",
+    "language": "zh_CN"
+  },
+  {
+    "key": "emailCopyTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "邮箱复制成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "minAmount",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "单笔最小转账金额：@amount。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalidContract",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "代币地址不存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "switchWcClient",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "当前已有Wallet Connect连接。是否断开旧连接，建立新连接？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ImportWatchWalletTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "导入ETH地址以查看资产和交易。此模式下，仅可进行查看，无法进行交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "watchWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "观察钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "signInWithEthereum",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "登录请求",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Chain ID",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "链ID",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Nonce",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "Nonce",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Issued At",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "发行于",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Expiration Time",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "过期时间",
+    "language": "zh_CN"
+  },
+  {
+    "key": "importMnemonic",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "导入助记词",
+    "language": "zh_CN"
+  },
+  {
+    "key": "watchOnlyCondition",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "观察钱包无法使用当前功能，请切换钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "localCurrency",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "汇率",
+    "language": "zh_CN"
+  },
+  {
+    "key": "USD",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "美元",
+    "language": "zh_CN"
+  },
+  {
+    "key": "CNY",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "人民币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "JPY",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "日元",
+    "language": "zh_CN"
+  },
+  {
+    "key": "GBP",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "英镑",
+    "language": "zh_CN"
+  },
+  {
+    "key": "KRW",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "韩元",
+    "language": "zh_CN"
+  },
+  {
+    "key": "HKD",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "港元",
+    "language": "zh_CN"
+  },
+  {
+    "key": "THB",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "泰铢",
+    "language": "zh_CN"
+  },
+  {
+    "key": "touchIdOrFaceIdUnlock",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "指纹/面容解锁",
+    "language": "zh_CN"
+  },
+  {
+    "key": "touchIdOrFaceIdPassword",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "指纹/面容代替密码输入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanFingerprintTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "请扫描指纹",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setFingerprintTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "请先在手机设置中设置指纹",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlockSettingFail",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "解锁设置失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "verifyIdTip",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "点击验证指纹/面容",
+    "language": "zh_CN"
+  },
+  {
+    "key": "verifyFail",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "验证失败，请输入密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "loginWalletPassword",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "使用钱包密码登录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "login",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "登录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletConnect",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "WalletConnect",
+    "language": "zh_CN"
+  },
+  {
+    "key": "settings",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "使用设置",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noHardware",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "设备不支持",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notEnrolled",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "设备未使用指纹或者面容解锁",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletSecurity",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "钱包安全",
+    "language": "zh_CN"
+  },
+  {
+    "key": "resetWallet",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "重置钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletManagement",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "钱包管理",
+    "language": "zh_CN"
+  },
+  {
+    "key": "resetWalletTips",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "若在未备份钱包的情况下重置，您将永久丢失钱包及其中的资产，请务必在重置前备份所有钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unbacked",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "未备份钱包: ",
+    "language": "zh_CN"
+  },
+  {
+    "key": "preferences",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "偏好设置",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletBackup",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "钱包备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputEmpty",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "输入为空",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inputRemarkTitle",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "请设置地址备注",
+    "language": "zh_CN"
+  },
+  {
+    "key": "verificationMethod",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "验证方式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notifications",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "消息中心",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sub_receipt",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "收款",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sub_name",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "域名通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sub_expiration",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "域名过期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allRead",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "全部已读",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transactionNotice",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "收款通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "subscriptionNotice",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "订阅通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expirationNotice",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "过期通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transaction",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hnsDomain",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "HNS 域名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receiptSuccessful",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "收款成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noNotification",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "暂无通知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "statusChange",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "状态变更",
+    "language": "zh_CN"
+  },
+  {
+    "key": "statusChangeMessage",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "@domain 的状态将在 @hours 小时内转换为 @status",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expiringSoon",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "即将过期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expirationMessage",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "域名 @domain 将会在一周内过期，请及时续签。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "notAddChain",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "【@wallet】钱包未添加@chain链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockMethod",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "解锁方式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Gas loading",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "Gas数据加载中，请稍后",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Are you sure you want to delete this wallet?",
+    "type": "me",
+    "lang_id": "zh_CN",
+    "value": "您确定要删除该钱包吗？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nftRanking",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "排行榜",
+    "language": "zh_CN"
+  },
+  {
+    "key": "floor",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "地板价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "owners",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "所有人",
+    "language": "zh_CN"
+  },
+  {
+    "key": "categories",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "分类",
+    "language": "zh_CN"
+  },
+  {
+    "key": "recommendedCollections",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "推荐合集",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nftPrice",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "collections",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "合集",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nftHomeSearchHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "搜索合集",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noResultsFound",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "未找到结果",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sortBy",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "排序",
+    "language": "zh_CN"
+  },
+  {
+    "key": "products",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "商品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "totalVolume",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "总交易额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "collectionSearchHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "藏品ID",
+    "language": "zh_CN"
+  },
+  {
+    "key": "priceHighToLow",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "priceLowToHigh",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "successful",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "viewDetails",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "查看详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sendAddress",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "发送地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "interactionAddress",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交互地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "network",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "网络",
+    "language": "zh_CN"
+  },
+  {
+    "key": "networkFees",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "网络费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "data",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "数据",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approval",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approvalCoinHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "授权以下币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "contractInteraction",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "合约交互",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chooseCurrency",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "选择币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "oneDay",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "一天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "threeDays",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "三天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "oneWeek",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "一周",
+    "language": "zh_CN"
+  },
+  {
+    "key": "oneMonth",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "一月",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expiration",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "有效期",
+    "language": "zh_CN"
+  },
+  {
+    "key": "listings",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "出售订单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelOrderHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您确定要取消出价订单?",
+    "language": "zh_CN"
+  },
+  {
+    "key": "makeOffer",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "offers",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "出价订单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "CancelPurchaseOrder",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "取消出价订单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "agreeToOffer",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "同意订单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "agreeToOfferHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您确定同意当前出价？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelInProgress",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "订单正在取消中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelOrderSuccess",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "订单取消成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmPurchase",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "购买藏品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "royalties",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "版费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "purchaseSuccess",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您已成功在@platform平台上购买藏品。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nftSelling",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "上架",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chooseMarket",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "选择NFT市场",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sellingPrice",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "售价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expectedProfit",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "预计利润",
+    "language": "zh_CN"
+  },
+  {
+    "key": "platformFees",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "平台手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "shelvesSuccess",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "藏品已成功在@platform平台上上架",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelListing",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "下架",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelListingHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "下架后，订单将在平台上移除，并需支付手续费使其在链上失效",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelListingTitle",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "下架以下藏品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "offShelvesSuccess",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您已成功在@market平台把@collection订单下架",
+    "language": "zh_CN"
+  },
+  {
+    "key": "txInProgress",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交易进行中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "shelveCollection",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "下架藏品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noPricing",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "暂无定价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lowestPrice",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "最低售价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "owner",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "拥有者",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokenId",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "代币编号",
+    "language": "zh_CN"
+  },
+  {
+    "key": "features",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "特殊属性",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stopSale",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "取消出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "authorizedNft",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "授权出售NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "listNFT",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "上架藏品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "authorizedSales",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "授权出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "agreeOffer",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "同意出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "authorization",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "authorizedCoin",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "授权币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "makeOfferHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "已成功在@platform平台上出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmOffer",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "确认出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "signature",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "签名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "viewSaleOrders",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "查看出售订单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "viewPurchaseOrders",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "查看购买订单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transactionHistory",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交易历史",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deal",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "成交",
+    "language": "zh_CN"
+  },
+  {
+    "key": "from",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "来自",
+    "language": "zh_CN"
+  },
+  {
+    "key": "to",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "去向",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelTransaction",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "取消交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelTransactionHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交易已成功取消",
+    "language": "zh_CN"
+  },
+  {
+    "key": "backToList",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "返回列表",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelOffer",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "取消出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelOfferHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您的出价已成功取消",
+    "language": "zh_CN"
+  },
+  {
+    "key": "agreeOfferHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您的藏品已成功卖出",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelTx",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "取消交易需要额外花费网络费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelTxFee",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "由于网络原因, 取消交易不能保证成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "limit",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "上限",
+    "language": "zh_CN"
+  },
+  {
+    "key": "increasingFee",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "提高网络费用以加速交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "beforeSpeedingUp",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "加速前",
+    "language": "zh_CN"
+  },
+  {
+    "key": "afterSpeedingUp",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "加速后",
+    "language": "zh_CN"
+  },
+  {
+    "key": "speedUpCancellation",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "加速此次取消",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nftTransactionStatus",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您的交易正在确认中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nftTransactionStatusHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "关闭弹窗不会中断交易流程, 可对交易进行加速或者取消",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hash",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交易哈希",
+    "language": "zh_CN"
+  },
+  {
+    "key": "viewTransactionDetails",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "查看交易详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "type",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "类型",
+    "language": "zh_CN"
+  },
+  {
+    "key": "interactedWith",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交互地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokenStandard",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "代币标准",
+    "language": "zh_CN"
+  },
+  {
+    "key": "localTxHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "您当前有一笔交易正在进行中，是否跳转至交易页面?",
+    "language": "zh_CN"
+  },
+  {
+    "key": "x2y2Hint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "X2Y2市场的NFT售价不得低于0.0001ETH",
+    "language": "zh_CN"
+  },
+  {
+    "key": "saleAmountBottomHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "NFT售价不得低于0.0001ETH",
+    "language": "zh_CN"
+  },
+  {
+    "key": "saleAmountTopHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "NFT售价不得高于99999999ETH",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ensHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "ENS解析地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_cap_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "总市值: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_cap_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "总市值: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_cap_change_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "总市值: 涨幅排名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_cap_change_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "总市值: 跌幅排名",
+    "language": "zh_CN"
+  },
+  {
+    "key": "volume_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交易额: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "volume_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "交易额: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "floor_price_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "floor_price_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "whale_num_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "巨鲸数: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "whale_num_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "巨鲸数: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "listing_price_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "listing_price_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "价格: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_price_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "成交价: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_price_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "成交价: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "rarity_asc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "稀有度: 从低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "rarity_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "稀有度: 从高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sales_time_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "最新上架",
+    "language": "zh_CN"
+  },
+  {
+    "key": "whale",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "巨鲸数",
+    "language": "zh_CN"
+  },
+  {
+    "key": "filter",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "过滤",
+    "language": "zh_CN"
+  },
+  {
+    "key": "filterInvalid",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "过滤条件有误",
+    "language": "zh_CN"
+  },
+  {
+    "key": "isListing",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "立即购买",
+    "language": "zh_CN"
+  },
+  {
+    "key": "minPrice",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "最低价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "maxPrice",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "最高价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "resetConfirmHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "如确认重置钱包, 请在下方输入: ",
+    "language": "zh_CN"
+  },
+  {
+    "key": "holder_num_desc",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "持有者数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "recentRockets",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "实时地板价趋势",
+    "language": "zh_CN"
+  },
+  {
+    "key": "filterPriceHint",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "设置最低价和最高价时必须勾选【@checkbox】, 否则设置的价格将无效。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "24h",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "24H",
+    "language": "zh_CN"
+  },
+  {
+    "key": "7d",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "7D",
+    "language": "zh_CN"
+  },
+  {
+    "key": "30d",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "30D",
+    "language": "zh_CN"
+  },
+  {
+    "key": "offer",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "出价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lastPrice",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "最后成交价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_token",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "行情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nft_amount",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Fiat currency prices",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "法币价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ago",
+    "type": "nft",
+    "lang_id": "zh_CN",
+    "value": "前",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Stake Redeem",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "已赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Delegator Address",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Validator Src Address",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "原节点地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Validator Dst Address",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "转移后节点地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Validator Address",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "节点地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "redelegate",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "accounts",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "accounts",
+    "language": "zh_CN"
+  },
+  {
+    "key": "yourStake",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "您的质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stake_overview",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "总览",
+    "language": "zh_CN"
+  },
+  {
+    "key": "totalRewards",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押总收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "staking",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stake",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noDelegation1",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "暂无相关质押记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noDelegation2",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "选择节点进行质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "clickHere",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "点击此处",
+    "language": "zh_CN"
+  },
+  {
+    "key": "yourStakeTitle",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "您的质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "validator",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "验证节点",
+    "language": "zh_CN"
+  },
+  {
+    "key": "searchValidator",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "搜索节点……",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chooseValidator",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "选择要转移的节点",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selectValidatorTitle",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "选择节点",
+    "language": "zh_CN"
+  },
+  {
+    "key": "validatorFee",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setAmountTitle",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "设置金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setStakeAmount",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "设置金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selectValidator",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "选择节点",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setAmountPop",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "设置质押金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stakeHint",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "您的@coin目前已质押给验证节点。您需要赎回质押才能回收这些资金。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmAmountTitle",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "确认金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stakeDetail",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delegateConfirm",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "即将提取收益 @amount @symbol 并支付手续费 @fee @symbol，您获取的收益可以在交易详情页查看。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "redelegateNotice",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "您正在进行转移质押节点操作，注意：\n\n1. 被转移的节点需要等待21天才能进行转移。\n2. 每个节点最多转移或被转移7次。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reinvestConfirm",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "提取收益并向原来的节点质押 @amount @symbol，需要支付手续费 @fee @symbol。您获取的收益可以在交易详情页查看。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unstakeAmount",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "设置解除质押金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unstakeAmountHint",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "请输入要解除的金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "actualDelegateAmount",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "实际质押金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "exceedAvailableBalance",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "超出可用余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stakeAccount",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押账户",
+    "language": "zh_CN"
+  },
+  {
+    "key": "rentReserve",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "租金储备金",
+    "language": "zh_CN"
+  },
+  {
+    "key": "activeStake",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "激活的质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delegations",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "yourDelegation",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "rewards",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "withdraw",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "取回质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unstake",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "取消质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reinvest",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "复投",
+    "language": "zh_CN"
+  },
+  {
+    "key": "moreInformation",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "更多信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "stakeOperation",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押相关操作",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirmOpTitle",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "delegate",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "DELEGATE",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "UNDELEGATE",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Undelegate",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "REDELEGATE",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "REINVEST",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "复投",
+    "language": "zh_CN"
+  },
+  {
+    "key": "REINVEST_ALL",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "批量复投",
+    "language": "zh_CN"
+  },
+  {
+    "key": "REWARD",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "提取收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "REWARD_ALL",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "批量提取",
+    "language": "zh_CN"
+  },
+  {
+    "key": "SEND",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "转出",
+    "language": "zh_CN"
+  },
+  {
+    "key": "MULTI_SEND",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "批量发送",
+    "language": "zh_CN"
+  },
+  {
+    "key": "pending_notice",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "您有一笔进行中的质押相关交易，以下信息暂未更新",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sol_pending_notice",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "余额更新可能存在延迟，请稍等片刻",
+    "language": "zh_CN"
+  },
+  {
+    "key": "WITHDRAW",
+    "type": "stake",
+    "lang_id": "zh_CN",
+    "value": "取回质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Swap not support",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "该钱包暂不支持@chain链，请切换到支持该链的钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "兑换",
+    "language": "zh_CN"
+  },
+  {
+    "key": "SWAP",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "合约交互",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Bridge fee",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "跨链手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "pay",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "支付",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receive_swap",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "收到",
+    "language": "zh_CN"
+  },
+  {
+    "key": "from_chain",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "从",
+    "language": "zh_CN"
+  },
+  {
+    "key": "to_chain",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "到",
+    "language": "zh_CN"
+  },
+  {
+    "key": "max",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "全部",
+    "language": "zh_CN"
+  },
+  {
+    "key": "price_impact",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "价格影响",
+    "language": "zh_CN"
+  },
+  {
+    "key": "network_fees",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "网络费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "order_routing",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "订单路由",
+    "language": "zh_CN"
+  },
+  {
+    "key": "slippage",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "滑点",
+    "language": "zh_CN"
+  },
+  {
+    "key": "exchange",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "交易所",
+    "language": "zh_CN"
+  },
+  {
+    "key": "estimated_receive",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "预计到账",
+    "language": "zh_CN"
+  },
+  {
+    "key": "estimated_send",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "预计支付",
+    "language": "zh_CN"
+  },
+  {
+    "key": "best_choice",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "最佳路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "select_token",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "选择代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "select_chain",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "选择链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no_token_result",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "无搜索结果，请重新输入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auto_setting",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "自动设置",
+    "language": "zh_CN"
+  },
+  {
+    "key": "auto_setting_info",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "滑点值会根据所选代币自动调整，以增加交易成功的概率。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "custom_title",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "自定义",
+    "language": "zh_CN"
+  },
+  {
+    "key": "custom_info",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "设置一个更高的滑点值有助于交易顺利完成。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "slippage_invalid_low",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "滑点值应不低于0.1%",
+    "language": "zh_CN"
+  },
+  {
+    "key": "slippage_invalid_high",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "滑点值应不高于50%",
+    "language": "zh_CN"
+  },
+  {
+    "key": "slippage_too_low",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "滑点值过低可能会导致交易失败",
+    "language": "zh_CN"
+  },
+  {
+    "key": "slippage_too_high",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "滑点最多可能会占用您预计到账金额的@percent%",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receive_amount",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "到账金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_history",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "兑换历史记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "success",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_detail",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "兑换详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no_liquidity",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "流动性不足",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approve_token",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approved_amount",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权额度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlimited",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "不限",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Unlimited",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "无限",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allowance_error",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "无法获取授权金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "request_frequent",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "请求频繁，请稍后再试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_too_small",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "兑换金额过小",
+    "language": "zh_CN"
+  },
+  {
+    "key": "custom_allowance",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "自定义授权额度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approve_notice",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "请设置您允许第三方为您提取并自动执行交易的金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlimited_notice",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "只需要授权一次",
+    "language": "zh_CN"
+  },
+  {
+    "key": "custom_notice",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "请输入您允许授权的最大金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "recommend",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "推荐",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allowance_invalid_low",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权金额@amount不足本次支付金额(@need)",
+    "language": "zh_CN"
+  },
+  {
+    "key": "allowance_equal",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "本次授权金额等于支付金额，下次兑换可能需要再次授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no_history",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "暂无兑换记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approve_token_pending",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "op_status",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "操作类型",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancel_tx",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "取消交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "select_route",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "选择兑换路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "best_route_notice",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "目前已经以扣除gas fee后的实际金额为标准选择了最佳路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "input_amount",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "输入金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "payment_difference",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "支付差额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receiving_difference",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "接收差额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "contract",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "route",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "兑换路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no_route",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "暂无兑换路径，请稍等",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no_route_support",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "暂无支持的兑换路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lower_fee",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "手续费低于基础费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "token_approve",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_confirm",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "确认兑换",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approval_info",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_info",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "兑换信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_hint",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "当前情况仅支持输入支付金额进行兑换",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approve_route",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "invalid_route",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "路径更新中，请稍后重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The transfer value is too small",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "本次最小跨链金额为@amount",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Aren't supported.",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "暂不支持@chain链到以下链的交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Bridge route",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "授权路径",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fee cap less than block base",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "费用上限低于区块基础费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "An extended confirmation wait time on this route may result in transaction failure.",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "该路径确认交易等待时间过长可能会导致交易失败，请尽快交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "FAVORITE",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "收藏",
+    "language": "zh_CN"
+  },
+  {
+    "key": "HOT",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "热门",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NEW_COIN",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "新币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "DAY_VOLUME",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "24h 交易量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "turnover_24",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "24h 交易量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "last_price",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "最新价格",
+    "language": "zh_CN"
+  },
+  {
+    "key": "change_24h",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "24小时涨跌",
+    "language": "zh_CN"
+  },
+  {
+    "key": "market_sell",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "出售",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The assets received may decrease in value by X% and may not be the specified token on the target chain. ",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "由于市场深度或跨链费用问题，兑换后资产价值可能减少@percent%，并可能无法在目标链上转换成指定币种。是否继续兑换？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_token_transactions",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_token_pool",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "资金池",
+    "language": "zh_CN"
+  },
+  {
+    "key": "FDV",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "完全稀释估值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Total liquidity",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "总流动性",
+    "language": "zh_CN"
+  },
+  {
+    "key": "PERFORMANCE",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "实时行情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Trading Pairs",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "币对",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Add to Favorites",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "添加至收藏",
+    "language": "zh_CN"
+  },
+  {
+    "key": "swap_limit",
+    "type": "swap",
+    "lang_id": "zh_CN",
+    "value": "限价",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addCoin",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "添加币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addingCoin",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "添加币种...",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No assets search result",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "无搜索结果，请重新输入或添加自定义代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Max fee too low",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "设置的最大费用须大于当前设置小费(@maxPriorityFee GWEI)",
+    "language": "zh_CN"
+  },
+  {
+    "key": "baseTooLow",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "设置的最大费用小于当前网络的基础费用 @baseFee GWEI，交易可能长时间无法成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gas",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "矿工手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "expectedTime",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "预计",
+    "language": "zh_CN"
+  },
+  {
+    "key": "slow",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "缓慢",
+    "language": "zh_CN"
+  },
+  {
+    "key": "normal",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "通常",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fast",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "快速",
+    "language": "zh_CN"
+  },
+  {
+    "key": "custom",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "自定义",
+    "language": "zh_CN"
+  },
+  {
+    "key": "speedUp",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "加速",
+    "language": "zh_CN"
+  },
+  {
+    "key": "nonceLower",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "nonce过低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tokens",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Issuers",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "发行者",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unknown",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "未知",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Unknown",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "未知项目",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasFeeHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "Gas费是支付给在以太坊网络上处理交易的加密货币矿工的。\nGas费由网络设定，并根据网络流量和交易的复杂性而波动。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "maxPriorityFeeHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "最大优先费（又称 \"矿工小费\"）直接给矿工，激励他们优先处理你的交易。你最常支付的是你的最大设置。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasFee",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "Gas Fee",
+    "language": "zh_CN"
+  },
+  {
+    "key": "maxPriorityFee",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "小费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "maxFee",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "最大费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasFeeLimit",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "最大Gas量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transactionFee",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasLimit",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "矿工费限制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gasPrice",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "矿工费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "blockNumber",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "区块编号",
+    "language": "zh_CN"
+  },
+  {
+    "key": "assets",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "txHistory",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易历史",
+    "language": "zh_CN"
+  },
+  {
+    "key": "manage",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "管理",
+    "language": "zh_CN"
+  },
+  {
+    "key": "laterBackup",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "稍后备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "backedUp",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "startBackup",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "开始备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "backupTitle",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "该钱包尚未备份助记词",
+    "language": "zh_CN"
+  },
+  {
+    "key": "backupHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "若您未备份助记词，发生以下情况：设备丢失、卸载APP重新安装、清除App数据时，您将永久丢失此钱包中的资产。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonic",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "助记词",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonicNote",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "请认真用笔和纸按顺序抄写助记词并妥善保管。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonicM1",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "助记词相当于钱包所有权。切勿截屏，切勿在联网环境下存储和分享。一旦泄露，资产将不再安全。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "verifyMnemonic",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "验证助记词",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonicError",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "助记词错误",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mnemonicHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "请按顺序点击助记词，以确认您正确的备份",
+    "language": "zh_CN"
+  },
+  {
+    "key": "password",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "passcode",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "createTip",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "正在创建钱包...",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setPassword",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "请设置密码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "passwordInconsistent",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "密码不一致, 请重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "loaded",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已加载全部",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noData",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "暂无数据",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noSearchData",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "无匹配结果",
+    "language": "zh_CN"
+  },
+  {
+    "key": "forceUpgradeContent",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "新版本有重大改动，您必须升级当前版本才能继续使用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "update",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "更新",
+    "language": "zh_CN"
+  },
+  {
+    "key": "shareLink",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "分享链接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "copyLinkSuccessful",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "链接复制成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "copyLink",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "拷贝链接",
+    "language": "zh_CN"
+  },
+  {
+    "key": "contentEmpty",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "输入内容不能为空",
+    "language": "zh_CN"
+  },
+  {
+    "key": "versionUpgrade",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "版本升级",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wrongPassword",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "密码错误",
+    "language": "zh_CN"
+  },
+  {
+    "key": "wrongPasscode",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "密码错误",
+    "language": "zh_CN"
+  },
+  {
+    "key": "networkError",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "页面加载失败，请稍后重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transaction is pending",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已有交易进行中，请稍后再试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reload",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "重新加载",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletAddress",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "钱包地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "copy",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "复制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "copied",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "复制成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "enterAmount",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "输入金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "all",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "全部",
+    "language": "zh_CN"
+  },
+  {
+    "key": "paymentDetail",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "支付详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "paymentInfo",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "支付信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receiveAddress",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "收款地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "paymentAddress",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "付款地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transfer",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "转账",
+    "language": "zh_CN"
+  },
+  {
+    "key": "minerFee",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "txHash",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "TxHash",
+    "language": "zh_CN"
+  },
+  {
+    "key": "query",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "在浏览器查看",
+    "language": "zh_CN"
+  },
+  {
+    "key": "action",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "行为",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tradeSuccess",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tradePending",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "确认中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "spendableBalance",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "可用余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockedAmount",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "冻结金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unconfirmed",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "未确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "totalAmount",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "总金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockedHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "当您对域名出价后，出价的金额则会被冻结；在揭示时会解冻盲注部分，在赎回时会解冻出价部分。如果出价错过揭示期，则会永久冻结。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "XRP reservation",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "冻结金额为账户预留金额(10 XRP)和Token资产所需金额。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "XRP Inactive (at least 10 XRP)",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "您的钱包余额不足，无法进行转账或授权操作。为了激活账户，您需要至少拥有10个XRP。请充值以增加余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Wallet Inactive (at least 10 XRP)",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "账户暂未激活",
+    "language": "zh_CN"
+  },
+  {
+    "key": "reverseHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "账户需要保留小额资金用于保持账户活性。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tonRentHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易手续费仅为估计值，余额需要至少0.1个TON用于发送token或NFT交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unconfirmedHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易正在进行中，交易完成后待确认金额将计入可用余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tradeRecord",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易记录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tradeOut",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "转出",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tradeIn",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "转入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "send",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "转账",
+    "language": "zh_CN"
+  },
+  {
+    "key": "sendTransaction",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "发送普通交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "receive",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "收款",
+    "language": "zh_CN"
+  },
+  {
+    "key": "HNS Domain Name",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "HNS域名详情",
+    "language": "zh_CN"
+  },
+  {
+    "key": "enterWallet",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "进入钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addCoinTitle",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "添加币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addTokenHint1",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "检测到您有资产待添加",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addTokenHint2",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "跳转查看",
+    "language": "zh_CN"
+  },
+  {
+    "key": "token",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dataGenerateTip",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "数据生成中 ...",
+    "language": "zh_CN"
+  },
+  {
+    "key": "selectWallet",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "选择钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hours",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "时",
+    "language": "zh_CN"
+  },
+  {
+    "key": "minutes",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "分",
+    "language": "zh_CN"
+  },
+  {
+    "key": "day",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "天",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addressExist",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "地址已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addSuccessful",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "添加成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "removeSuccessful",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "移除成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletExists",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "钱包名称已存在",
+    "language": "zh_CN"
+  },
+  {
+    "key": "walletNameNotEmpty",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "钱包名称不能为空",
+    "language": "zh_CN"
+  },
+  {
+    "key": "browser",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "浏览器",
+    "language": "zh_CN"
+  },
+  {
+    "key": "scanCodeTo",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "扫二维码，转入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "checkBoxFeeLabel",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "将输入金额改为到账金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "checkBoxFeeLabel2",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "将输入金额改为到账金额+手续费",
+    "language": "zh_CN"
+  },
+  {
+    "key": "putOnTop",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "置顶",
+    "language": "zh_CN"
+  },
+  {
+    "key": "cancelOnTop",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "取消置顶",
+    "language": "zh_CN"
+  },
+  {
+    "key": "legacy",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "传统地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "addAddressToBook",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "是否将收款地址添加到地址簿？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "noTxHistory",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "近期暂无交易数据，可前往浏览器查询",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tx not available",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "暂不支持获取交易列表，可前往浏览器查询",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No authorized tokens",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "暂无已授权的资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "viewInBrowser",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "去浏览器查看",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Successfully switch",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "设置成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "RPC URL",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "RPC地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Input RPC URL",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "输入RPC URL",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Invalid URL",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "URL无效",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Incorrect chain id from RPC",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "RPC返回的chain id不正确",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Unable to access",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "无法访问RPC",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Edit successful",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "修改成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Cannot delete the selected RPC",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "不能删除选中节点",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Whether to delete the user-defined RPC node",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "是否删除自定义rpc节点？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Delete successful",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "删除成功",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Default",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "预设",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Add RPC URL",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "新增RPC网址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Network Name",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "网络名称",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlockedUTXOsHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "未找到解锁的UTXOs",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockedUTXOsHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "未找到锁定的UTXOs",
+    "language": "zh_CN"
+  },
+  {
+    "key": "UTXOsLocked",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "被占用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "UTXOsUnlocked",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已解除",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Locked UTXOs",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "被占用 UTXO",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Unlocked UTXOs",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已解除 UTXO",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Manage UTXOs",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "UTXO 管理",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Unlocking the UTXO s may cause the loss of the included Ordinals assets",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "解除占用，可能损失该UTXO中包含的Ordinals资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unlockUTXO",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "解除占用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "lockUTXO",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "恢复占用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inscriptionHint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "当前UTXO包含以上Ordinals资产, 花费可能丢失以上资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "maxPriorityTooLow",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "小费设置过小可能导致交易等待时间长",
+    "language": "zh_CN"
+  },
+  {
+    "key": "trade",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "commit",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "域名注册",
+    "language": "zh_CN"
+  },
+  {
+    "key": "setName",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "设置名称",
+    "language": "zh_CN"
+  },
+  {
+    "key": "multiSend",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "批量发送",
+    "language": "zh_CN"
+  },
+  {
+    "key": "deposit",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "充值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approve",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "safeTransferFrom",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "安全转移",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Transfer",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "转移NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Receive",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "接收NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "inscribe",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "铭刻",
+    "language": "zh_CN"
+  },
+  {
+    "key": "available",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "可用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transferable",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "可转",
+    "language": "zh_CN"
+  },
+  {
+    "key": "availableBalance",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "可用余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "batchTransferTextTitle",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "请在每行输入一个地址和相应金额，最多可输入50行。输入金额最多可保留6位小数。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "form_mode",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "表单模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "text_mode",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "文本模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "form_mode_title",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "表单模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "text_mode_title",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "文本模式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "gas_refund",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "Gas 返还",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ckb_rent_shortage",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "转账后的余额不足以支付最小找零@min CKB",
+    "language": "zh_CN"
+  },
+  {
+    "key": "coin",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Add Authorization",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "添加授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Add a token",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "添加代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Token Address",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "代币地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Token Code",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "代币代码",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Issuer",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "发行商",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Default (100w)",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "默认 (100w)",
+    "language": "zh_CN"
+  },
+  {
+    "key": "TrustSet",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "dot_confirm_box_content",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "根据Polkadot的链上机制，此操作将导致您在链上的 DOT 余额清零，请确认是否继续。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Address Copied",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "地址已复制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "RPC failed",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "RPC请求失败，请切换节点重试",
+    "language": "zh_CN"
+  },
+  {
+    "key": "unsupported_transaction_history",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "暂不支持获取交易列表",
+    "language": "zh_CN"
+  },
+  {
+    "key": "After blocking, this token will no longer appear in your Assets Discovery.",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "屏蔽后，该代币将不再出现在您的资产发现中。您可以通过设置移出黑名单",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Block token",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "屏蔽代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Blocked tokens",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已屏蔽代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Blocked Tokens",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "已屏蔽代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Transaction submitted. Confirmation may take a moment.",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "交易已提交，请稍后确认",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Unblock",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "取消屏蔽",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Are you sure you want to unblock this token?",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "您确定要取消屏蔽该代币吗？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Max Supply",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "最大供给量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Circulating Supply",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "流通量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Total Supply",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "总量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Basic Info",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "基本信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Market Overview",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "市场概况",
+    "language": "zh_CN"
+  },
+  {
+    "key": "About",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "关于",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Official Website",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "官方网址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "White Paper",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "白皮书",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Rent exemption fee",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "租期费用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Reserved amount",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "预留金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "An additional SOL is reserved for the transaction fee and the token rent exemption fee.",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "为确保交易成功，需要额外预留 @amount SOL 用于手续费和代币租期费用。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Search symbol",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "搜索Symbol",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Please enter the password to generate the APT data.",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "请输入密码以生成APT数据",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Filter & Sort",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "筛选和排序",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Hide small balance",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "隐藏小额代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Sort by value: high to low",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "按价值排序：由高到低",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Sort by value: low to High",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "按价值排序：由低到高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Sort by time added: newest to oldest",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "按添加时间排序：由近到远",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Sort by time added: oldest to newest",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "按添加时间排序：由远到近",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The amount of coins that are circulating in the market and are tradeable by the public",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "市场上流通且可供公众交易的代币数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The amount of coins that have already been created, minus any coins that have been burned",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "区块链上的供应量减去被销毁的代币数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The maximum number of coins coded to exist in the lifetime of the cryptocurrency",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "加密货币编码中可能存在的理论最大数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Withdraw tx",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "mint",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "铸造",
+    "language": "zh_CN"
+  },
+  {
+    "key": "supply",
+    "type": "wallet",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Invest",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "认购",
+    "language": "zh_CN"
+  },
+  {
+    "key": "hold assets",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "在投资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "defi_products",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "产品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "defi",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "DeFi",
+    "language": "zh_CN"
+  },
+  {
+    "key": "protocol_info",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "产品信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "protocol",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "协议",
+    "language": "zh_CN"
+  },
+  {
+    "key": "chain_protocol",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "稳定币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "security_ratings",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "安全评分",
+    "language": "zh_CN"
+  },
+  {
+    "key": "about_token",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "相关币种",
+    "language": "zh_CN"
+  },
+  {
+    "key": "coin_contract",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "币种合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "assets_total",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "资产总值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirm_invest",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "确认认购",
+    "language": "zh_CN"
+  },
+  {
+    "key": "confirm_redeem",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "确认赎回",
+    "language": "zh_CN"
+  },
+  {
+    "key": "approving",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "授权中",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tx_info",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "交易信息",
+    "language": "zh_CN"
+  },
+  {
+    "key": "no_assets",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "暂无资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "none",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "无",
+    "language": "zh_CN"
+  },
+  {
+    "key": "estimated_daily_earnings",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "预估每日收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Estimated number received",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "预估到账数量",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Investment process",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "投资过程",
+    "language": "zh_CN"
+  },
+  {
+    "key": "tx_consume",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "交易损耗",
+    "language": "zh_CN"
+  },
+  {
+    "key": "No products held",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "暂无持有产品",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Earnings",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "我的",
+    "language": "zh_CN"
+  },
+  {
+    "key": "defi_earn",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "理财",
+    "language": "zh_CN"
+  },
+  {
+    "key": "add_chain",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "添加该链",
+    "language": "zh_CN"
+  },
+  {
+    "key": "add_chain_msg",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "您尚未添加该链，请点击添加该链后查看数据",
+    "language": "zh_CN"
+  },
+  {
+    "key": "add_chain_msg_2",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "该链尚未添加，是否添加以查看数据？",
+    "language": "zh_CN"
+  },
+  {
+    "key": "balance_delay_hint",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "余额更新可能有延迟，请稍后刷新页面以查看最新余额。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "total_assets",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "资产总值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Watch Wallet does not support this feature",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "观察钱包暂不支持该功能。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This wallet does not support xx chains, please switch wallets",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "该钱包不支持@chain链，请切换钱包",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Total",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "总资产",
+    "language": "zh_CN"
+  },
+  {
+    "key": "pool",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "流动性池",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Total value",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "总价值",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Rewards",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "奖励",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Yield",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Deposit",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "存款",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Staked",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Locked",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "锁定",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Farming",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "挖矿",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Leveraged Farming",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "杠杆挖矿",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Lending",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "借贷",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Vesting",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "权益归属",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Airdrop",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "空投",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Liquidity Pool",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "流动性池",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Options Seller",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "期权卖方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Options Buyer",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "期权买方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Insurance Seller",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "保险卖方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Insurance Buyer",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "保险买方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Investment",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "投资",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Governance",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "治理",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Perpetuals",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "永续合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Staked",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "NFT 质押",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Liquidity Pool",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "NFT 流动性池",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Lending",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "NFT 借贷",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Fraction",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "NFT 分割",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT P2P Borrower",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "NFT P2P 借款方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT P2P Lender",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "NFT P2P 出借方",
+    "language": "zh_CN"
+  },
+  {
+    "key": "supplied",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "存入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "borrowed",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "借出",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Claimable amount",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "可领取收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Claimable ",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "收益领取期限",
+    "language": "zh_CN"
+  },
+  {
+    "key": "LP Token",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "凭证代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "ClAIM_PROFIT",
+    "type": "defi",
+    "lang_id": "zh_CN",
+    "value": "领取收益",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Current Block Height",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "当前区块高度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Latest Block Height",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "最新区块高度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "private",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "私密",
+    "language": "zh_CN"
+  },
+  {
+    "key": "public",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "公开",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Synchronizing…",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "余额同步中...",
+    "language": "zh_CN"
+  },
+  {
+    "key": "It will take a few minutes",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "同步时长约为几分钟",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Please note that centralized exchanges only accept public Aleo.",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "中心化交易所仅接受公开的 Aleo。如果交易是向交易所进行的，请只发送带有公开费用的公开信用额度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Send credit as",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "发送信用额度方式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "You send",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "发送",
+    "language": "zh_CN"
+  },
+  {
+    "key": "TO",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "到",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Configure Send",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "发送方式",
+    "language": "zh_CN"
+  },
+  {
+    "key": "User receives",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "用户收到",
+    "language": "zh_CN"
+  },
+  {
+    "key": "All transaction details remain confidential.",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "所有交易细节将保持私密",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The recipient will receive credits publicly, but the sender's identity remains anonymous.",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "接收方将公开收到信用额度，但发送方的身份保持私密状态",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The recipient will know the sender's identity and will receive private credits.",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "接收方将知道发送方的身份并收到私密信用额度",
+    "language": "zh_CN"
+  },
+  {
+    "key": "All transaction details are publicly accessible on the blockchain.",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "所有交易细节都可以在区块链上公开访问",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transfer_private",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "私密 到 私密",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transfer_private_to_public",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "私密 到 公开",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transfer_public_to_private",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "公开 到 私密",
+    "language": "zh_CN"
+  },
+  {
+    "key": "transfer_public",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "公开 到 公开",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fee_private",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "私密",
+    "language": "zh_CN"
+  },
+  {
+    "key": "fee_public",
+    "type": "aleo",
+    "lang_id": "zh_CN",
+    "value": "公开",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Security Detection>",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "安全检测>",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Un-open-sourced Contract",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约未开源",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This token contract is not open source, and its code details cannot be inspected. There may be malicious mechanisms in place designed to defraud users of their assets.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "此代币合约未开源，无法查询合约代码详情，可能存在恶意机制，骗取用户资产。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Proxy Contract",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在代理合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "There is a proxy function in the contract. The proxy contract means contract owner can modify the function of the token and possibly effect the price.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约中包含代理机制。代理机制是指项目方通过代理合约可能替换此币的相关逻辑，进而对此币价格、机制产生影响。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Mint Function",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在增发功能",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Mint function exists. Hidden mint functions may increase the amount of tokens in circulation and effect the price of the token.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "此代币存在不明增发机制。不明增发机制可能会增加市面上的该币数量，影响此币价格。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Retrievable Ownership",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在可取回所有权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "If this function exists, it is possible for the project owner to regain ownership even after relinquishing it.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "若存在取回所有权的逻辑，可能让项目方在放弃所有权后重新获取拥有者权限。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Owner Can Change Balance",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在 Owner 可改余额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The contract owner is found to have the authority to modify the balance of tokens at other addresses.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "发现合约 owner 有权修改其他地址的代币余额。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Hidden Owner",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在隐藏 Owner",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Hidden owner address was found for the token. For contract with a hidden owner, developer can still manipulate the contract even if the ownership has been abandoned.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "发现该代币存在隐藏的 owner 地址。若存在隐藏 owner，代币可能会名义上放弃所有权，实际上依然提供存在隐藏的 owner 控制代币。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Self-Destruct Function",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在自毁功能",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Self-destruct function found. If this function exists and is triggered, the contract will be destroyed, all functions will be unavailable, and all related assets will be erased.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "发现代币合约存在自毁功能。若存在该功能并被触发，合约将会销毁，所有功能不可用，相关资产也会被清除。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "External Call Risk",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在外部合约调用风险",
+    "language": "zh_CN"
+  },
+  {
+    "key": "External calls would cause this token contract to be highly dependent on other contracts, which may be a potential risk.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "外部合约调用将导致代币合约高度依赖其他合约，这可能是一个潜在的风险。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Gas Abuser",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在 gas 滥用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Gas abuse activity has been found.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "疑似该合约存在 gas 滥用行为。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Excessive Tax Rate",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "税率过高",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Above 10% may be considered a high tax rate. More than 50% tax rate means may not be tradable.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "税率若超过 10% 就算偏高；若超过 50% 可能会导致无法交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Not Tradable on DEX",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "不可在去中心化交易所交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The token cannot be traded on DEX.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "此代币不可在去中心化交易所交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Cannot be Bought",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "无法买入",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Generally, such tokens are issued as rewards for on-chain applications, and users cannot purchase them directly.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "一般来说，这种代币是作为一些链上应用的奖励发行的，用户不能直接购买。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Not Fully Sellable",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "代币不可全部卖出",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Some token contracts will have a maximum sell ratio.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "一些代币合约会有一个最大卖出比例。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Modifiable Tax",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "交易税可改",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The contract owner contains the authority to modify the transaction tax. If the transaction tax is increased to more than 49%, the tokens will not be able to be traded (honeypot risk).",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "发现项目方保留修改交易税的权限。若存在该权限，一旦项目方将交易税提高至 49% 以上，代币将无法被交易（貔貅风险）。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Honeypot",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "疑似是貔貅代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This token possibly contains malicious code. It might not be available for trading. ",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该代币疑似包含恶意代码，可能无法进行交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Pausable Transfer",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在暂停交易功能",
+    "language": "zh_CN"
+  },
+  {
+    "key": "If a suspendable code is included, the token maybe neither be bought nor sold (honeypot risk).",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该代币合约存在暂停交易功能，可能导致该代币的买卖交易全部暂停（貔貅风险）。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Blacklist",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "包含黑名单机制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The blacklist function is included, some addresses may not be able to trade normally (honeypot risk).",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约中包含黑名单机制，一部分地址可能无法正常交易（貔貅风险）。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Whitelist",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "包含白名单机制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The whitelist function is included, some addresses may not be able to trade normally (honeypot risk).",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约中包含白名单机制，一部分地址可能无法正常交易（貔貅风险）。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Anti Whale",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "防巨鲸",
+    "language": "zh_CN"
+  },
+  {
+    "key": "There is a limit to the number of token transactions. The number of scam token transactions may be limited (honeypot risk).",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约具有限制单个地址最大交易量或最大持仓量的功能。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Modifiable Anti Whale",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "防巨鲸可改",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The contract has the function to modify the maximum amount of transactions or the maximum token position.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约交易最大额度或最大持仓量可被修改。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Trading Cooldown Function",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在交易冷却功能",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The token contract has a trading cooldown function, the user will not be able to sell the token within a certain time or block after buying.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该代币合约有交易冷却功能，用户在购买后的一定时间或区块内将不能出售代币。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Tax Changes for Personal Addresses",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "发现可针对特定地址改税",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The contract owner may set a very outrageous tax rate for assigned address to block it from trading.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "发现可针对特定地址改税，owner 可以为指定地址设定一个非常高的税率，以阻止其交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "NFT Unverified",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "NFT 未经过认证",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT has not been verified by the mainstream NFT platform.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 未经过主流 NFT 平台认证。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Name Duplicate NFT Found",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在重名 NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "There are NFTs with the same name but different creators. Please pay special attention to the authenticity of that NFT and avoid purchasing a fake one.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在与当前 NFT 重名但创建者不同的 NFT，请注意该 NFT 的真伪性。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Malicious NFT",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "恶意 NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT has performed malicious behaviors.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 执行过恶意行为。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Un-open-sourced contract",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "合约未开源",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT contract is not open source. Un-open-sourced contracts may hide various unknown mechanisms and are extremely risky.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 合约未开源，未开源的合约可能隐藏各种未知机制，风险极大。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Proxy NFT",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在代理合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "There is a proxy function in the NFT contract. The proxy contract means contract owner can modify the function of the contract.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 合约存在代理，代理合约意味着所有者可以修改合约功能。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Frozen Metadata",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "元数据被冻结",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The metadata of this NFT is stored in IPFS, AR, generated by contract, or another decentralized way.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 的元数据存储在 IPFS、AR、通过合约生成或其他去中心化方式。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Owner can Burn Others' NFT Directly",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "Owner 可销毁他人 NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The owner can burn the NFTs in other addresses directly through the method.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "NFT owner 可以通过合约方法直接销毁其他地址中的该 NFT。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Owner can Transfer NFT Without Approval",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "Owner 可不经授权转移他人NFT",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT owner can transfer NFT without approval.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "NFT owner 可以在未经批准的情况下转让 NFT。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Privileged Minting",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "可特权增发",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT contract has minting methods which can only be triggered by an address with special privileges.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "NFT 合约具有只能由具有特殊权限的地址触发的铸造方法。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Self-Destruct function",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在自毁功能",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT contract can self-destruct.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 合约存在自毁功能。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Approval Restriction",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "授权限制",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT contract can restrict the approval, resulting in NFT can not be traded on the NFT DEX.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT 合约存在授权审批功能，导致 NFT 无法在 NFT DEX 上交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Oversupply Minting",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "过量铸造",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The NFT owner can bypass the maximum amount of minting specified in the contract, and continue to mint NFTs beyond this limit.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该 NFT owner 可以绕过合约中指定的最大铸造量，并继续铸造超出此限制的 NFT。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "risky token",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "@symbol为风险代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "high risk token",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "@symbol为高风险代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "uncatalogued",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "@symbol未收录",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Please be aware of the risks, this token is uncatalogued.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "请注意风险，此代币未收录。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Token is uncatalogued and may be risky, please verify its safety and proceed with caution.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该代币未收录，可能涉及风险，请核实其安全性并谨慎操作。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Cybercrime",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及网络犯罪",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is involved in cybercrime.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及网络犯罪。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Money Laundering",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及洗币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is involved in money laundering.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及洗币。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Has Created Malicious Contracts",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "创建过恶意合约",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address has created malicious contracts.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址创建过恶意合约。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Gas Abuse",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "存在 gas 滥用",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address deceives other users out of gas fees to mint other assets.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址欺骗其他用户的 gas 费来铸造其他资产。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Financial Crime",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及金融犯罪",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is involved in financial crime.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及金融犯罪。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Darkweb Transactions",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及暗网交易",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is involved in darkweb transactions.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及暗网交易。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Reinited",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "多次部署",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address has been deployed more than onces, and can be deployed again. ",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址已被部署多次，且可以再次部署。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Phishing Activities",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及网络钓鱼活动",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address has implemented phishing activities.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及网络钓鱼活动。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Fake KYC",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及假 KYC",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is involved in fake KYC.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及假 KYC 骗局。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Suspected Malicious Behavior",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉嫌恶意行为",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is suspected of malicious behavior and is therefore blacklisted.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉嫌恶意行为，因此被列入黑名单。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Fake Standard Interface",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "假标准接口",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address contains standard interfaces that do not conform the requirements of the standard protocol.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址包含不符合标准协议要求的标准接口。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Stealing Attack",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及盗币攻击",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address has implemented stealing attack.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及盗币攻击。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Blackmail Activities",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及勒索活动",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address has implemented blackmail activities.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及勒索活动。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Sanctioned Address",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "受制裁地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is sanctioned address.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址疑似受制裁地址。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Malicious Mining Activities",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及恶意挖矿",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is involved in malicious mining activities.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及恶意挖矿。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Coin Mixer Address",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "涉及混币服务",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is coin mixer address.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址涉及混币服务。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Fake Token",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "虚假代币",
+    "language": "zh_CN"
+  },
+  {
+    "key": "The token is a counterfeit of a mainstream asset.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该代币是假冒的主流资产。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Honeypot address",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "貔貅相关地址",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This address is related to honeypot tokens or has created scam tokens.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该地址与貔貅代币有关或曾经创建过诈骗代币。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Please be advised that this contract has been identified as risky.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "请注意，该合约被认定为有风险。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This contract is uncatalogued. Please confirm its safety before proceeding.",
+    "type": "risk",
+    "lang_id": "zh_CN",
+    "value": "该合约未收录，请在继续操作前验证其安全性。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Approvals",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Approved Amount",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "已授权金额",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Revoke",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "取消授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This contract is high-risky. Please revoke it now.",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "该合约被检测为高风险，请立即取消授权。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "This contract has unknown risks.",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "该合约有未知风险。",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Revoke approval",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "取消授权",
+    "language": "zh_CN"
+  },
+  {
+    "key": "Project",
+    "type": "approval",
+    "lang_id": "zh_CN",
+    "value": "项目",
+    "language": "zh_CN"
+  }
+]

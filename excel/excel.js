@@ -19,7 +19,11 @@ async function main() {
     const values = row.values;
     const key = values[1];
     const type = values[2];
-
+    const field = {
+      key,
+      type,
+      value: [],
+    };
     for (let i = 0; i < languages.length; i++) {
       const lang_id = lang_ids[i];
       const language = languages[i];
@@ -29,24 +33,19 @@ async function main() {
       } catch (error) {
         value = "";
       }
-      contents.push({
-        key,
-        type,
+      field.value.push({
         lang_id,
         value,
-        language,
       });
     }
-    // break;
+    contents.push(field);
   }
 
-  const result = contents.filter((item) => item.lang_id && item.key);
-  const chinese = result.filter((item) => item.language === "zh_CN");
-  // const english = contents.filter((item) => item.language === "en_US");
+  const result = contents.filter((item) => item.key);
 
-  const jsonString = JSON.stringify(chinese);
+  const jsonString = JSON.stringify(result);
 
-  fs.writeFile("./chinese.json", jsonString, "utf8", (err) => {
+  fs.writeFile("./all.json", jsonString, "utf8", (err) => {
     if (err) {
       console.error("Error writing file:", err);
     } else {
