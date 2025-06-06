@@ -6,3 +6,4 @@ test_local
 excel/app translations.xlsx
 
 .DS_Store
+src/eip7702/config.js
